@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hair We Are Salon</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Gallery</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section id="hero">
+    <div class="hero-content">
+      <h1>Welcome to Hair We Are Salon</h1>
+      <p>Experience the latest trends and styles</p>
+      <a href="#" class="btn">Book Now</a>
+    </div>
+  </section>
+  
+  <section id="services">
+    <h2>Our Services</h2>
+    <div class="service">
+      <img src="haircut.jpg" alt="Haircut">
+      <h3>Haircuts</h3>
+      <p>Our expert stylists create trendy and personalized haircuts that suit your style and preferences.</p>
+    </div>
+    <div class="service">
+      <img src="coloring.jpg" alt="Hair Coloring">
+      <h3>Hair Coloring</h3>
+      <p>Transform your look with our professional hair coloring services. We offer a variety of shades and techniques.</p>
+    </div>
+    <div class="service">
+      <img src="styling.jpg" alt="Hair Styling">
+      <h3>Hair Styling</h3>
+      <p>Get ready for any occasion with our exceptional hair styling services. From updos to blowouts, we've got you covered.</p
+
